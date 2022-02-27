@@ -1,9 +1,9 @@
-module.exports.activity = {
-  // DO NOT CHANGE THESE
+{
+  
   type: [`GAME`, `STREAMING`, `LISTENING`, `WATCHING`, `COMPETING`],
-  status: [`ONLINE`, `IDLE`, `DND` /*, `INVISIBLE`*/], //todo: fun command :p
+  status: [`ONLINE`, `IDLE`, `DND`], 
 
-  // EDIT THE FOLLOWING ENTRIES TO SUIT.
+  
   typeLists: {
     game: ['with the fabric of time', 'Destiny 2', 'Warframe', 'Mario Kart 8'],
     streaming: [
