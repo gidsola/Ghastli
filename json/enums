@@ -1,4 +1,4 @@
-module.exports.activity = {
+activity = {
   // DO NOT CHANGE THESE
   type: [`GAME`, `STREAMING`, `LISTENING`, `WATCHING`, `COMPETING`],
   status: [`ONLINE`, `IDLE`, `DND` /*, `INVISIBLE`*/], //todo: fun command :p
